@@ -18,3 +18,7 @@ Panning, echovolume set to 0.5, time set to uhh nothing i guess.
 
 Created with delwrite~ and vd~ .
 I think I had assistance from the internets on creating this, but can't find the forums anywhere right now. 
+
+# rotkno.pd
+
+Abstraction for rotary knobs - again with help from the Pure Data community - too many people to mention.
